@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 /**
  * Java Class used to solve the Project Euler Questions
+ * Problems 1 - 10
  * @author vince
  * 16/06/2018
  */
